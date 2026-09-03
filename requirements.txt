@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pandas
+networkx
+langchain
+langchain-community
+langchain-core
+langchain-google-genai
+langchain-anthropic
+langchain-deepseek
+langchain-ollama
+python-dotenv
+matplotlib
+seaborn
